@@ -1,0 +1,56 @@
+ [
+  {
+    "title": "Philippine Statistics Authority (PSA)",
+    "content": "Official government source for poverty statistics and reports in the Philippines.",
+    "link": "https://psa.gov.ph/poverty-press-releases-data",
+    "note": "Best for up-to-date poverty data and demographics."
+  },
+  {
+    "title": "World Bank Philippines",
+    "content": "Provides analysis and reports on poverty, inequality, and economic development in the Philippines.",
+    "link": "https://www.worldbank.org/en/country/philippines/overview#3",
+    "note": "International perspective with insights on long-term poverty reduction."
+  },
+  {
+    "title": "UNICEF Philippines",
+    "content": "Focuses on child rights, poverty reduction, education, and social justice programs.",
+    "link": "https://www.unicef.org/philippines/",
+    "note": "Great resource for poverty’s impact on children."
+  },
+  {
+    "title": "Oxfam Pilipinas",
+    "content": "Works to fight inequality, empower communities, and respond to disasters.",
+    "link": "https://philippines.oxfam.org/",
+    "note": "NGO perspective on social justice and inequality."
+  },
+  {
+    "title": "Gawad Kalinga",
+    "content": "Community-based movement addressing poverty through housing and livelihood.",
+    "link": "https://www.gk1world.com/",
+    "note": "Highlights grassroots poverty alleviation projects."
+  },
+  {
+    "title": "Caritas Manila",
+    "content": "Catholic organization that supports education, livelihood, and relief programs.",
+    "link": "https://caritasmanila.org.ph/",
+    "note": "Faith-based initiative with focus on education and social justice."
+  },
+  {
+    "title": "Project PEARLS",
+    "content": "NGO dedicated to helping families in extreme poverty through food and education programs.",
+    "link": "https://www.projectpearls.org/",
+    "note": "Focuses on vulnerable communities such as Tondo, Manila."
+  },
+  {
+    "title": "Philippine Red Cross",
+    "content": "Provides health services, disaster relief, and humanitarian aid across the country.",
+    "link": "https://redcross.org.ph/ways-to-donate/",
+    "note": "National humanitarian organization with wide reach."
+  },
+  {
+    "title": "Save the Children Philippines",
+    "content": "Works to improve children’s lives through education, nutrition, and protection.",
+    "link": "https://donate.savethechildren.org.ph/",
+    "note": "Focused on ending child poverty and inequality."
+  }
+]
