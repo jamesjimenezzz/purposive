@@ -15,7 +15,7 @@ const Data = ({data}: {data: dataCamapings}) => {
         <p className='text-sm text-muted-foreground'>{data.note}</p>
         </div>
         <Link className='' href={`${data.link}`}>
-            <Button variant={"outline"} className='mt-2.5 cursor-pointer h-8.5 text-sm'>
+            <Button variant={"outline"} className='mt-2.5 cursor-pointer h-8.5 text-sm hover:scale-105'>
                 <ArrowRight /> Learn More
             </Button>
         </Link>

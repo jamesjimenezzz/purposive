@@ -5,6 +5,7 @@ import Data from './Data'
 import Image from 'next/image'
 import campaign from "../public/campaign.png"
 import Footer from '@/components/Footer'
+import Link from 'next/link'
 
 const Home = () => {
   return (
@@ -14,6 +15,12 @@ const Home = () => {
 
     <div className='max-w-3xl mt-10'>
       <Image className='object-cover' src={campaign} alt='Photo of Campaign' width={500} height={500} />
+    </div>
+
+    <div className='py-1'>
+      <Link href={"https://eco-business.shorthandstories.com/child-scavengers-casualties-of-the-philippines-war-against-waste/"}>
+      <h1 className='text-sm text-muted-foreground hover:underline cursor-pointer'>Learn more about Rachelle Anne</h1>
+      </Link>
     </div>
 
      <div className='flex flex-col gap-10 my-10 '>
