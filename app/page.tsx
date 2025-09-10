@@ -3,7 +3,7 @@ import data from "../data.json"
 import { dataCamapings } from '../index'
 import Data from './Data'
 import Image from 'next/image'
-import campaign from "../public/campaign.png"
+import campaign from "../public/campaign3.png"
 import Footer from '@/components/Footer'
 import Link from 'next/link'
 
