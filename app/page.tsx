@@ -29,7 +29,7 @@ const Home = () => {
     </div>
 
      <div className='flex flex-col gap-3 my-10 '>
-      <h1 className='font-bold text-blue-900 text-3xl underline '>// Join the Movement for Social Justice</h1>
+      <h1 className='font-bold text-blue-900 text-3xl underline '>{"// Join the Movement for Social Justice"}</h1>
        {data.map((data: dataCamapings, i ) =>  (
         <Data key={i} data={data} />
       ))}
